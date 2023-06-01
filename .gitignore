@@ -1,0 +1,14 @@
+spotifybot/
+.idea
+*.log
+*.swp
+multiprocess.py
+thread.py
+firefox.py
+build
+dist
+dist.exe
+dist.zip
+license.txt
+license.py
+app.py
